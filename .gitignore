@@ -1,0 +1,41 @@
+# Gradle
+
+run/
+.gradle/
+build/
+out/
+classes/
+gradle-app.setting
+
+# Eclipse
+
+eclipse/
+*.pydevproject
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+*.launch
+
+# IntelliJ IDEA
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio Code
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
