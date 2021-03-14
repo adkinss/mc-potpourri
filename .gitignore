@@ -39,3 +39,7 @@ local.properties
 bin/
 .classpath
 .project
+
+# Minecraft
+
+logs/
