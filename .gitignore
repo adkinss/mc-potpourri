@@ -1,38 +1,22 @@
-# Gradle
+# gradle
 
-run/
 .gradle/
 build/
 out/
 classes/
-gradle-app.setting
 
-# Eclipse
+# eclipse
 
-eclipse/
-*.pydevproject
-.project
-.metadata
-bin/
-tmp/
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.classpath
-.settings/
-.loadpath
 *.launch
 
-# IntelliJ IDEA
+# idea
 
 .idea/
 *.iml
 *.ipr
 *.iws
 
-# Visual Studio Code
+# vscode
 
 .settings/
 .vscode/
@@ -40,6 +24,10 @@ bin/
 .classpath
 .project
 
-# Minecraft
+# macos
 
-logs/
+*.DS_Store
+
+# fabric
+
+run/
